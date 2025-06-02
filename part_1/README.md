@@ -2,7 +2,6 @@
 
 #### To run the terraform script:
 ```sh
-terraform commands:
 terraform fmt
 terraform init
 terraform validate
