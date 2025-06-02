@@ -1,4 +1,4 @@
-#### 1.Configure AWS:
+#### Configure AWS:
 ```sh
 aws configure
 ```
